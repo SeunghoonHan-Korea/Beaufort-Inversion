@@ -4,8 +4,7 @@ Public data release accompanying the manuscript *(citation to be added)*.
 
 Initial and final P-wave velocity (Vp) models from a 2-D multiscale full-waveform
 inversion of a marine multichannel seismic profile acquired in the Beaufort Sea,
-Canadian Arctic, during the Korean icebreaker **ARAON** expedition **ARA05C**
-(line **L05**).
+
 
 ## Files
 
